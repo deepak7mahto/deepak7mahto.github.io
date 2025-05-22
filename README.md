@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/u/4279665?v=4&size=1000" alt="Deepak Kumar Mahto" width="200"/>
+</p>
+
 ## Deepak Kumar Mahto
 📧 <deepak7mahto@gmail.com> | 📱 [+91-9873943196](tel:+919873943196) | 🔗 [LinkedIn](https://www.linkedin.com/in/deepak7mahto/)
 
