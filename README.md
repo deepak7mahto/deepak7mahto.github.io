@@ -1,167 +1,102 @@
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/u/4279665?v=4&size=128" alt="Deepak Kumar Mahto" width="128" height="128" style="border-radius: 50%; box-shadow: 0 2px 8px #aaa;">
-</p>
-
-<h1 align="center">Deepak Kumar Mahto</h1>
-<p align="center">
-  <a href="mailto:deepak7mahto@gmail.com"><img src="https://img.shields.io/badge/Email-deepak7mahto@gmail.com-red?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="tel:+919873943196"><img src="https://img.shields.io/badge/Phone-+91--9873943196-brightgreen?style=flat-square&logo=whatsapp&logoColor=white" alt="Phone"></a>
-  <a href="https://www.linkedin.com/in/deepak7mahto/"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin" alt="LinkedIn"></a>
-</p>
+## Deepak Kumar Mahto
+📧 <deepak7mahto@gmail.com> | 📱 [+91-9873943196](tel:+919873943196) | 🔗 [LinkedIn](https://www.linkedin.com/in/deepak7mahto/)
 
 ---
 
-## 📝 Summary
-
-> **Dynamic Technical Lead** with 8+ years of experience in software engineering and technical leadership. Expert in architecting and delivering scalable, high-impact solutions, specializing in React, Node.js, and GraphQL. Proven track record in cross-team collaboration, process optimization, and end-to-end project delivery. Passionate about innovation, user-centric design, and continuous learning.
-
----
-
-## 🛠️ Technical Skills
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,express,graphql,flutter,python,dart,mongodb,postgres,aws,docker,nginx,serverless,angular,github,linux" alt="Tech Stack" />
-</p>
-
-| **Languages**             | JavaScript (ES6+), TypeScript, Python (exp.), Dart (exp.)                 |
-|---------------------------|----------------------------------------------------------------------------|
-| **Frameworks/Libraries**  | React.js, Node.js, Express.js, Angular, Electron.js, Flutter, GraphQL, JWT, SharpJS, FFmpeg |
-| **Databases**             | MongoDB, PostgreSQL, Firestore, DynamoDB                                   |
-| **Cloud & Infrastructure**| AWS (Lambda, API Gateway, S3), Firebase, NGINX, PM2, ELK, Serverless, Docker, Kafka |
-| **CMS & APIs**            | Strapi CMS, Drupal, RevenueCat, Mixpanel, Adjust, Telegram API, Facebook API, CRM API |
+### 📝 Summary
+Dynamic Technical Lead with over 8 years of experience in software development and technical leadership, excelling in driving feature development and team collaboration across multiple projects. Proficient in leveraging a robust skill set that includes React, Node.js, and GraphQL to deliver scalable solutions and enhance user experiences. Proven ability to manage complex projects, from conceptualization to execution, while fostering innovation and optimizing processes. Committed to continuous improvement and adapting to new technologies, ensuring successful outcomes in fast-paced environments.
 
 ---
 
-## 💼 Experience
+### 🛠️ Programming Skills
 
-### 🚀 Technical Lead + IC  
-**Hunch** · New Delhi, India · _Feb 2024 – Present_  
-<img src="https://img.icons8.com/color/48/000000/money-bag.png" width="24" alt="Monetization"/>
-
-- Built and optimized monetization features (Pin Comment, GIF DPs, Premium Badges, etc.), premium user experiences, and purchase restoration, directly increasing revenue.
-- Developed dynamic pricing and paywalls for Hunch+.
-- Revamped poll creation flow, introduced Ice Breaker Questions, Hashtags, Profile Recommendations, and Alpha Creator status to boost engagement.
-- Integrated RevenueCat with Mixpanel, Adjust, Firebase for analytics.
-- Enhanced admin & ops efficiency with new internal tools and dashboards.
-
----
-
-### 👔 Technical Lead  
-**Nike (via GSPANN)** · New Delhi, India · _Sep 2023 – Feb 2024_  
-<img src="https://img.icons8.com/ios-filled/50/000000/nike.png" width="24" alt="Nike"/>
-
-- Led technical planning and execution for Nike NNA OPS Project, authoring HLD docs and mentoring engineers.
-- Translated product requirements into actionable stories, managed end-to-end delivery.
-- Automated invoice generation for finance using Handlebars.js and PDF tools.
+| Category                     | Skills                                                                          |
+| :--------------------------- | :------------------------------------------------------------------------------ |
+| **Languages**                | JavaScript ES6, TypeScript                                                      |
+| **Languages Exposure To**    | Python, Dart                                                                    |
+| **Frameworks and Libraries** | React.js, Node.js, Express.js, Electron.js, GraphQL, Flutter, SharpJS, FFmpeg, JWT |
+| **Databases**                | MongoDB, PostgreSQL, Firestore, DynamoDB                                        |
+| **Cloud and Infrastructure** | AWS (Lambda, API Gateway, S3), Firebase, nginx, pm2, ELK, Serverless, Docker, Kafka |
+| **CMS and Tools**            | Strapi CMS, Drupal, RevenueCat, Mixpanel, Adjust, Telegram API, Facebook API, CRM API |
 
 ---
 
-### 🛍️ Software Engineer / Tech Lead  
-**SHOPTRUE** · New Delhi, India · _Sep 2022 – Sep 2023_  
-<img src="https://img.icons8.com/fluency/48/000000/shop.png" width="24" alt="Shoptrue"/>
+### 💼 Experience
 
-- Promoted from Squad Member to Tech Lead; led e-commerce platform feature development.
-- Designed Favorites, Shopping Bag, Checkout flows; built CMS (Strapi + Angular) and analytics integrations.
-- Migrated Angular 13 → 15, enabled SSR, and enhanced frontend performance.
+**🚀 Technical Lead + IC** @ Hunch | New Delhi, India (Feb 2024 - Present)
+*   **Monetization Features and Revenue:** Developed and enhanced monetization features (Pin Comment, GIF DPs, Premium Badges, In-Feed Promotion, Vibetribe Filters, Boost), implemented Premium User features (One-Time Purchase, Crush), and enabled purchase restoration, contributing to increased revenue.
+*   **Revenue Optimization:** Developed Dynamic Pricing for Hunch+ Sales and Dynamic Paywalls to optimize revenue streams.
+*   **User Experience and Engagement:** Redesigned poll creation flow using a stepper for improved user experience, and introduced Ice Breaker Questions, Hashtags, Profile Recommendations, and alpha creator status to enhance user engagement and content discovery.
+*   **Revenue Tracking and Analytics:** Integrated RevenueCat with analytics platforms (Mixpanel, Adjust, Firebase) for comprehensive revenue tracking.
+*   **Platform Management and Internal Tools:** Contributed to Admin Panel development for efficient poll and user management, and developed internal tools (Copy Token Button, Poll Explorer) to improve operational efficiency.
 
----
+**👔 Technical Lead** @ Nike (GSPANN) | New Delhi, India (Sep 2023 - Feb 2024)
+*   **Project Leadership and Technical Strategy:** Led significant development initiatives, including development efforts for the Nike NNA OPS Project. Contributed to technical strategy by developing High-Level Design (HLD) documents for owned modules and mentored team members on technical implementation best practices.
+*   **Requirements Translation and Development Planning:** Drove project planning by translating Product Manager requirements into actionable technical tasks and user stories, ensuring clear objectives and scope for the development team.
+*   **Development Execution and Feature Delivery (incl. Finance Context):** Managed the technical development lifecycle end-to-end (covering stories, tasks, and bug fixes), delivering key features. This included specialized work within a finance team to develop automated invoice generation solutions, leveraging technologies like Handlebar.js for dynamic templating and PDF libraries for output.
 
-### 📡 Software Engineer  
-**Locad** · New Delhi, India · _Feb 2017 – Sep 2022_  
-<img src="https://img.icons8.com/fluency/48/000000/advertising-column.png" width="24" alt="Digital Signage"/>
+**🛍️ Software Engineer / Tech Lead** @ SHOPTRUE | New Delhi, India (Sep 2022 - Sep 2023)
+*   **Rapid Advancement and Technical Leadership:** Promoted from Squad Member to Tech Lead shortly after joining, taking leadership responsibility for multiple initiatives and research projects aimed at enhancing the e-commerce platform.
+*   **Core E-commerce Feature Development:** Designed and implemented the complete lifecycle for key user-facing features, including the Favorites feature on shoptrue.com (from design document to full rollout) and developing or resolving issues within the Shopping Bag and Checkout process.
+*   **Platform Systems and Infrastructure:** Developed critical supporting systems, specifically building the Shoptrue Product Configuration CMS using Strapi and a custom Angular front-end to manage product attribution, and creating a dedicated analytics server to integrate Facebook Ads and Google Analytics for valuable user behavior insights.
+*   **Frontend Architecture and Performance:** Led significant frontend technical improvements, including migrating the core project from Angular 13 to Angular 15 to resolve compatibility issues, and designing or implementing Angular Server-Side Rendering (SSR) to enhance SEO performance.
 
-- Architected and developed Screeno digital signage: real-time logs, offline support, and multi-platform players.
-- Built management dashboards (React.js), APIs (Node.js, Express.js, MongoDB), and deployed on AWS.
-- Developed desktop media optimization tools and field audit mobile/web platforms.
-
----
-
-## 💡 Key Projects
-
-<table>
-  <tr>
-    <td width="25" align="center"><img src="https://img.icons8.com/clouds/64/000000/server.png" width="28"/></td>
-    <td><b>Geocode Caching Server:</b> Cost-saving Node.js + MongoDB cache server for geocoding APIs.</td>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://img.icons8.com/fluency/48/000000/gps-device.png" width="28"/></td>
-    <td><b>GPS Tracking App:</b> Real-time asset/vehicle tracking (Android + Firebase + Crashlytics).</td>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://img.icons8.com/color/48/000000/chatbot.png" width="28"/></td>
-    <td><b>Chat Bot:</b> Customer support/notification bots for Telegram & Facebook.</td>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://img.icons8.com/color/48/000000/whatsapp--v1.png" width="28"/></td>
-    <td><b>WhatsApp Bot:</b> Server-based WhatsApp bot for CRM notifications.</td>
-  </tr>
-</table>
+**📡 Software Engineer** @ Locad | New Delhi, India (Feb 2017 - Sep 2022)
+*   **Screeno Architecture, Logging and Offline Capability:** Designed and developed the core architecture for the Screeno digital advertisement delivery system, enabling content pushing, managing real-time logs via an ELK stack, and implementing robust offline functionality for players.
+*   **Screeno Web Management Dashboard:** Developed the Screeno web dashboard using React.js, Bootstrap, and CoreUI to provide comprehensive features for content upload, screen management, campaign scheduling, and reporting.
+*   **Screeno API and Cloud Infrastructure:** Built the Screeno microservice API using Node.js, Express.js, JWT, and MongoDB, deploying it via AWS Lambda and API Gateway for authentication and management, with content storage on AWS S3.
+*   **Cross-Platform Screeno Player Development:** Developed cross-platform digital billboard players for Windows, Linux (using React.js/Electron.js), and Android (using Java), implementing features like reliable offline playback.
+*   **Screeno Media Optimization Tool:** Created the Screeno Creative Builder, a helper desktop application using Electron.js designed to optimize media assets efficiently for upload to the dashboard.
+*   **Locaudit Field Audit Platform:** Developed the Locaudit platform, encompassing the Android field audit application (Java, utilizing Firebase for features like FCM and Analytics) and the Plano web application (React.js, Bootstrap) with a Node.js/Express.js API deployed on AWS EC2/S3 via Serverless Framework.
+*   **Mobile Applications for Engagement and Monitoring:** Developed specialized mobile applications including the Android Click n Win app (Java, leveraging Firebase Auth/Realtime DB) for billboard interaction rewards, and the BJP Map Dashboard (React.js) providing a live status display of election campaign billboards across India.
 
 ---
 
-## 🏫 College Projects
+### 💡 Projects
 
-| Project                               | Technologies / Description         |
-|----------------------------------------|------------------------------------|
-| VLAN-based College Network             | VLAN Networking                    |
-| NGO Website (PASSION MOVEMENT INTL)    | Drupal                             |
-| Web Scraper (Minor Project)            | Python                             |
-| Forensics Tool (Major Project)         | Python                             |
-
----
-
-## 👨‍💻 Internships & Training
-
-| Activity                                       | Organization | Year  |
-|------------------------------------------------|--------------|-------|
-| CCNA Training Program (4 weeks)                | HCL CDC      | 2014  |
-| Web & Android App Dev Internship               | NGO          | 2015  |
+| Project Title                      | Description                                                                                                     |
+| :--------------------------------- | :-------------------------------------------------------------------------------------------------------------- |
+| Caching Server: Geocode Caching Server | Self-developed and sold a Node.js and MongoDB based geocoding cache server to reduce costs with external geocoding APIs. |
+| 📍 GPS Tracking App (Self-Developed) | Built a real-time asset and vehicle tracking application using Android (Java), Firebase (FCM), and Fabric Crashlytics. |
+| 🤖 Chat Bot (Telegram and Facebook)  | Developed a chatbot for customer support and notifications.                                                       |
+| 💬 Whatsapp Bot (whatsapp-web.js)  | Created a WhatsApp bot deployable on servers to handle notifications via CRM API integration, reducing official API costs. |
 
 ---
 
-## 🏆 Achievements
+### 🏛️ College Projects
 
-<table>
-  <tr>
-    <td>🏅</td>
-    <td>Certificate of Appreciation, VLAN Network Project Competition (Nov 2014)</td>
-  </tr>
-  <tr>
-    <td>🏅</td>
-    <td>Top 100, Microsoft Build the Shield (Team)</td>
-  </tr>
-  <tr>
-    <td>🥉</td>
-    <td>3rd Prize, Web Scraping Using Python (Nov 2015)</td>
-  </tr>
-  <tr>
-    <td>📄</td>
-    <td>Paper Published, IEEE: "A Dive into Web Scraping World"</td>
-  </tr>
-  <tr>
-    <td>🥈</td>
-    <td>2nd Prize, Computer Forensics with Python (Apr 2016)</td>
-  </tr>
-  <tr>
-    <td>🥇</td>
-    <td>1st Prize, Univ. Project Competition: "Computer Security & Forensics" (May 2016)</td>
-  </tr>
-</table>
+| Project Title                                       | Description / Technologies Used                                      |
+| :-------------------------------------------------- | :------------------------------------------------------------------- |
+| Optimizing College Network                          | Based on VLAN Technology.                                            |
+| NGO Website (PASSION MOVEMENT INTERNATIONAL)        | Developed using Drupal.                                              |
+| Web Scraper (MINOR Project)                         | Developed using Python.                                              |
+| Forensics Tool (MAJOR Project)                      | Developed using Python.                                              |
 
 ---
 
-## 🎓 Education
+### 👨‍💻 Internships
 
-<p align="center">
-  <img src="https://img.icons8.com/color/96/000000/graduation-cap.png" width="40"/>
-</p>
-
-**Bachelor of Technology in Information Technology**  
-Guru Gobind Singh Indraprastha University, Delhi, India  
-_Aug 2012 – July 2016_
+| Activity / Training                                | Organization / Provider | Year |
+| :------------------------------------------------- | :---------------------- | :--- |
+| Four Week Training program on CCNA                 | HCL CDC                 | 2014 |
+| Internship: Website and Android app development    | NGO                     | 2015 |
 
 ---
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2200&pause=500&color=2081C3&vCenter=true&width=460&lines=Always+Learning;Building+for+Impact;Open+to+Collaboration!" alt="Typing SVG">
-</p>
+### 🏆 Achievements
+
+| Award / Recognition                                                       | Details / Event                                                                | Date         |
+| :------------------------------------------------------------------------ | :----------------------------------------------------------------------------- | :----------- |
+| Certificate of Appreciation                                               | Technical Project Competition for “Optimizing College Network Using VLAN”        | Nov 2014     |
+| Top 100 Rank                                                              | Microsoft Build the Shield competition (Team Participation)                    | -            |
+| Third Prize                                                               | Project Exhibition for “Web Scraping Using Python”                             | Nov 2015     |
+| Published Paper                                                           | IEEE conference, titled “A Dive into Web Scraping World.”                      | -            |
+| Second Prize                                                              | Project Exhibition for “Computer Forensics Using Python”                       | Apr 2016     |
+| First Prize                                                               | University Level Project Competition for “Computer Security and Forensics Using Python” | May 2016     |
+
+---
+
+### 🎓 Education
+*   **Bachelor of Technology in Information Technology**
+    Guru Gobind Singh Indraprastha University, Delhi, India
+    *Aug. 2012 – July. 2016*
